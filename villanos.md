@@ -4,3 +4,5 @@
 + Doctor Doom
 * Joker
 * Lex Luthor
+* Catwoman
+* Sinestro
